@@ -306,8 +306,9 @@ The same lookups are available as an MCP server: `python -m packbrain.mcp_server
 - `pack/` and the built database contain content from third-party mods and wikis. Use them for your own server; do not
   redistribute them.
 - Web fetchers use a generic User-Agent, respect `robots.txt` and rate-limit themselves; sites that forbid crawling are skipped.
-- Licence of this project: **not chosen yet**. Until a `LICENSE` file is added, all rights are reserved.
-  `mod/TEMPLATE_LICENSE.txt` is the MIT licence of the NeoForge mod template files only.
+- This project is licensed under the [MIT License](LICENSE). This covers the code and docs of this repository only, not
+  the modpack content, mod jars or wiki texts that the build reads from your own files.
+  `mod/TEMPLATE_LICENSE.txt` is the MIT licence of the NeoForge mod template files.
 
 ## Roadmap
 Planned soon, to make it easier to use:
