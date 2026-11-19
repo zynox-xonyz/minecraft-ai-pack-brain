@@ -1,0 +1,20 @@
+{
+  "llm_base_url": "http://127.0.0.1:8080/v1",
+  "model": "gemma4",
+  "host": "127.0.0.1",
+  "port": 8787,
+  "api_token": "",
+  "agent": "v5lite",
+  "searxng_url": "",
+  "web_search_enabled": true,
+  "rate_limit_per_minute": 8,
+  "rate_limit_per_hour": 80,
+  "max_question_chars": 500,
+  "history_turns": 6,
+  "history_ttl_seconds": 1800,
+  "max_concurrent_llm": 1,
+  "max_queue": 4,
+  "max_tool_rounds": 4,
+  "web_search_results": 5,
+  "log_dir": "logs"
+}

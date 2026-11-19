@@ -1,0 +1,682 @@
+[
+ {
+  "id": "h01",
+  "q": "wie mach ich nochmal messing",
+  "must": [
+   [
+    "copper",
+    "kupfer"
+   ],
+   [
+    "zinc",
+    "zink"
+   ]
+  ]
+ },
+ {
+  "id": "h02",
+  "q": "was brauch ich fuer nen beacon",
+  "must": [
+   [
+    "nether star",
+    "netherstern"
+   ],
+   [
+    "glass",
+    "glas"
+   ],
+   [
+    "obsidian"
+   ]
+  ]
+ },
+ {
+  "id": "h03",
+  "q": "netherite barren rezept?",
+  "must": [
+   [
+    "scrap",
+    "schrott"
+   ],
+   [
+    "gold"
+   ]
+  ]
+ },
+ {
+  "id": "h04",
+  "q": "wie craft ich nen brauständer",
+  "must": [
+   [
+    "blaze rod",
+    "lohenrute"
+   ]
+  ]
+ },
+ {
+  "id": "h05",
+  "q": "andesite casing wie??",
+  "must": [
+   [
+    "stripped",
+    "entrindet"
+   ],
+   [
+    "andesite alloy",
+    "andesit-legierung",
+    "andesitlegierung"
+   ]
+  ]
+ },
+ {
+  "id": "h06",
+  "q": "wie bekomm ich shafts",
+  "must": [
+   [
+    "andesite alloy",
+    "andesit-legierung",
+    "andesitlegierung"
+   ]
+  ]
+ },
+ {
+  "id": "h07",
+  "q": "cogwheel rezept",
+  "must": [
+   [
+    "shaft",
+    "welle"
+   ],
+   [
+    "plank",
+    "bretter",
+    "holz"
+   ]
+  ]
+ },
+ {
+  "id": "h08",
+  "q": "wie baut man nen water wheel in create",
+  "must": [
+   [
+    "shaft",
+    "welle"
+   ],
+   [
+    "plank",
+    "bretter",
+    "holz"
+   ]
+  ]
+ },
+ {
+  "id": "h09",
+  "q": "ae2 drive rezept",
+  "must": [
+   [
+    "engineering processor",
+    "ingenieur"
+   ],
+   [
+    "fluix"
+   ]
+  ]
+ },
+ {
+  "id": "h10",
+  "q": "was brauch ich für das me terminal",
+  "must": [
+   [
+    "formation core"
+   ],
+   [
+    "annihilation core"
+   ],
+   [
+    "logic processor"
+   ]
+  ]
+ },
+ {
+  "id": "h11",
+  "q": "ender chest craften",
+  "must": [
+   [
+    "obsidian"
+   ],
+   [
+    "eye of ender",
+    "enderauge",
+    "ender-auge"
+   ]
+  ]
+ },
+ {
+  "id": "h12",
+  "q": "wie mach ich nen fernglas",
+  "must": [
+   [
+    "amethyst"
+   ],
+   [
+    "copper",
+    "kupfer"
+   ]
+  ]
+ },
+ {
+  "id": "h13",
+  "q": "wie mach ich kupferplatten in create",
+  "must": [
+   [
+    "press",
+    "presse"
+   ],
+   [
+    "copper",
+    "kupfer"
+   ]
+  ]
+ },
+ {
+  "id": "h14",
+  "q": "wo bekomm ich zink her",
+  "must": [
+   [
+    "zinc ore",
+    "zinkerz",
+    "zink-erz",
+    "zinc-erz"
+   ]
+  ]
+ },
+ {
+  "id": "h15",
+  "q": "wie viele netherite scrap brauch ich für 3 netherite barren",
+  "must": [
+   [
+    "12"
+   ]
+  ]
+ },
+ {
+  "id": "h16",
+  "q": "wie viel gold braucht man für 2 netherite ingots",
+  "must": [
+   [
+    "8"
+   ]
+  ]
+ },
+ {
+  "id": "h17",
+  "q": "wie mach ich nen cooking pot",
+  "must": [
+   [
+    "brick",
+    "ziegel"
+   ],
+   [
+    "shovel",
+    "schaufel"
+   ]
+  ]
+ },
+ {
+  "id": "h18",
+  "q": "rucksack rezept",
+  "must": [
+   [
+    "chest",
+    "truhe"
+   ],
+   [
+    "leather",
+    "leder"
+   ]
+  ]
+ },
+ {
+  "id": "h19",
+  "q": "how do i make brass",
+  "must": [
+   [
+    "copper"
+   ],
+   [
+    "zinc"
+   ]
+  ]
+ },
+ {
+  "id": "h20",
+  "q": "how can i get netherite",
+  "must": [
+   [
+    "ancient debris"
+   ],
+   [
+    "scrap"
+   ]
+  ]
+ },
+ {
+  "id": "h21",
+  "q": "was kann man mit amethyst shards craften",
+  "must": [
+   [
+    "spyglass",
+    "fernglas",
+    "tinted",
+    "getönt",
+    "block of amethyst",
+    "amethystblock"
+   ]
+  ]
+ },
+ {
+  "id": "h22",
+  "q": "wofür ist zink eigentlich gut",
+  "must": [
+   [
+    "brass",
+    "messing"
+   ]
+  ]
+ },
+ {
+  "id": "h23",
+  "q": "wozu brauch ich shafts",
+  "must": [
+   [
+    "cogwheel",
+    "zahnrad",
+    "water wheel",
+    "wasserrad",
+    "encased fan",
+    "mechanical press",
+    "propeller",
+    "belt"
+   ]
+  ]
+ },
+ {
+  "id": "h24",
+  "q": "wie fang ich mit ae2 an",
+  "must": [
+   [
+    "meteor"
+   ],
+   [
+    "certus"
+   ]
+  ]
+ },
+ {
+  "id": "h25",
+  "q": "was sind channels bei ae2",
+  "must": [
+   [
+    "channel",
+    "kanal",
+    "kanäle"
+   ],
+   [
+    "8",
+    "32"
+   ]
+  ]
+ },
+ {
+  "id": "h26",
+  "q": "wie funktioniert p2p in ae2",
+  "must": [
+   [
+    "p2p",
+    "tunnel"
+   ],
+   [
+    "frequency",
+    "frequenz"
+   ]
+  ]
+ },
+ {
+  "id": "h27",
+  "q": "wie lad ich certus quartz auf",
+  "must": [
+   [
+    "charger",
+    "ladegerät"
+   ]
+  ]
+ },
+ {
+  "id": "h28",
+  "q": "ae2 strom wie funktioniert das",
+  "must": [
+   [
+    "energy",
+    "energie",
+    "strom"
+   ]
+  ]
+ },
+ {
+  "id": "h29",
+  "q": "wofür is der spatial io",
+  "must": [
+   [
+    "spatial",
+    "räumlich"
+   ]
+  ]
+ },
+ {
+  "id": "h30",
+  "q": "was ist ein affix?",
+  "must": [
+   [
+    "affix"
+   ],
+   [
+    "loot",
+    "gear",
+    "ausrüstung",
+    "waffe",
+    "rüstung",
+    "gegenstand",
+    "item"
+   ]
+  ]
+ },
+ {
+  "id": "h31",
+  "q": "wie funktionieren gems bei apotheosis",
+  "must": [
+   [
+    "gem",
+    "edelstein"
+   ],
+   [
+    "socket",
+    "sockel",
+    "fassung",
+    "slot"
+   ]
+  ]
+ },
+ {
+  "id": "h32",
+  "q": "wie heile ich nen zombie villager",
+  "must": [
+   [
+    "golden apple",
+    "goldener apfel",
+    "goldenen apfel",
+    "goldapfel"
+   ],
+   [
+    "weakness",
+    "schwäche"
+   ]
+  ]
+ },
+ {
+  "id": "h33",
+  "q": "was brauch ich für nen nether portal",
+  "must": [
+   [
+    "obsidian"
+   ],
+   [
+    "flint",
+    "feuerzeug",
+    "feuerstein"
+   ]
+  ]
+ },
+ {
+  "id": "h34",
+  "q": "was tauschen piglins",
+  "must": [
+   [
+    "gold"
+   ]
+  ]
+ },
+ {
+  "id": "h35",
+  "q": "wie baut man ne beacon pyramide",
+  "must": [
+   [
+    "iron",
+    "eisen",
+    "gold",
+    "emerald",
+    "smaragd",
+    "diamond",
+    "diamant"
+   ]
+  ]
+ },
+ {
+  "id": "h36",
+  "q": "welches level braucht man fürs beste enchanting",
+  "must": [
+   [
+    "eterna",
+    "30",
+    "apotheosis"
+   ]
+  ]
+ },
+ {
+  "id": "h37",
+  "q": "gibt es drachen im pack",
+  "must": [
+   [
+    "ice and fire",
+    "iceandfire",
+    "ice & fire"
+   ]
+  ]
+ },
+ {
+  "id": "h38",
+  "q": "welche mod hat nen casino",
+  "must": [
+   [
+    "casino",
+    "slot"
+   ]
+  ]
+ },
+ {
+  "id": "h39",
+  "q": "welche minimap ist drin",
+  "must": [
+   [
+    "xaero"
+   ]
+  ]
+ },
+ {
+  "id": "h40",
+  "q": "gibts rucksäcke im pack",
+  "must": [
+   [
+    "sophisticated backpacks",
+    "backpack",
+    "rucksack"
+   ]
+  ]
+ },
+ {
+  "id": "h41",
+  "q": "welche mods fügen waffen hinzu",
+  "must": [
+   [
+    "tacz",
+    "timeless",
+    "guns",
+    "waffen"
+   ]
+  ]
+ },
+ {
+  "id": "h42",
+  "q": "kann man mit dem pack irgendwie fliegende schiffe bauen",
+  "must": [
+   [
+    "aeronautics",
+    "sable",
+    "create"
+   ]
+  ]
+ },
+ {
+  "id": "h43",
+  "q": "welche waffe hat die höchste feuerrate",
+  "must": [
+   [
+    "minigun",
+    "vector"
+   ],
+   [
+    "1200"
+   ]
+  ]
+ },
+ {
+  "id": "h44",
+  "q": "was für munition braucht die awp",
+  "must": [
+   [
+    "338"
+   ]
+  ]
+ },
+ {
+  "id": "h45",
+  "q": "wie viele schuss hat die ak",
+  "must": [
+   [
+    "30"
+   ]
+  ]
+ },
+ {
+  "id": "h46",
+  "q": "wie viel schaden macht die ak auf distanz",
+  "must": [
+   [
+    "9"
+   ],
+   [
+    "7.5",
+    "7,5",
+    "6"
+   ]
+  ]
+ },
+ {
+  "id": "h47",
+  "q": "wie funktioniert mekanism fusion reaktor",
+  "must": [
+   [
+    "nicht",
+    "kein",
+    "no ",
+    "not ",
+    "keine",
+    "unbekannt"
+   ]
+  ]
+ },
+ {
+  "id": "h48",
+  "q": "wie baue ich nen nuklearreaktor",
+  "must": [
+   [
+    "nicht",
+    "kein",
+    "no ",
+    "not ",
+    "keine",
+    "unbekannt"
+   ]
+  ]
+ },
+ {
+  "id": "h49",
+  "q": "wie craft ich den infinity stone",
+  "must": [
+   [
+    "nicht",
+    "kein",
+    "no ",
+    "not ",
+    "keine",
+    "unbekannt"
+   ]
+  ]
+ },
+ {
+  "id": "h50",
+  "q": "was is der unterschied zwischen andesite und brass casing",
+  "must": [
+   [
+    "andesite",
+    "andesit"
+   ],
+   [
+    "brass",
+    "messing"
+   ]
+  ]
+ },
+ {
+  "id": "h51",
+  "q": "was brauch ich alles für ne mechanical press komplett",
+  "must": [
+   [
+    "andesite",
+    "andesit"
+   ],
+   [
+    "iron",
+    "eisen"
+   ]
+  ]
+ },
+ {
+  "id": "h52",
+  "q": "hab keine ahnung was ich mit nem hopper machen soll",
+  "must": [
+   [
+    "item",
+    "gegenstände",
+    "gegenstand"
+   ],
+   [
+    "chest",
+    "kiste",
+    "truhe",
+    "behälter"
+   ]
+  ]
+ },
+ {
+  "id": "h53",
+  "q": "wie funktioniert der comparator",
+  "must": [
+   [
+    "redstone"
+   ],
+   [
+    "signal"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,54 @@
+# --- secrets and personal data (never commit) ---
+config.json
+logs/
+*.jsonl
+
+# --- your modpack and everything derived from it (third-party content, large) ---
+pack/
+web/
+export/
+db/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+# --- evaluation output (contains real answers; may contain player questions) ---
+eval/generated/
+eval/compare/
+eval/real_questions.json
+eval/replay_*.json
+eval/results-*.json
+eval/ablation-*.json
+eval/coverage.md
+*.out
+*.log
+
+# --- Python ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# --- mod build ---
+mod/build/
+mod/.gradle/
+mod/run/
+mod/runs/
+mod/devtest/
+mod/out/
+mod/bin/
+mod/.idea/
+mod/*.iml
+dist/
+*.jar
+!mod/gradle/wrapper/gradle-wrapper.jar
+
+# --- deploy transfer package ---
+packbrain-upload.tar.gz
+
+# --- editors / OS ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

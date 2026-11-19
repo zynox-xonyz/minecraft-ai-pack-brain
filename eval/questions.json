@@ -1,0 +1,462 @@
+[
+ {
+  "id": "r01",
+  "q": "Wie stelle ich Messing in Create her?",
+  "must": [
+   [
+    "copper",
+    "kupfer"
+   ],
+   [
+    "zinc",
+    "zink"
+   ]
+  ]
+ },
+ {
+  "id": "r02",
+  "q": "Was brauche ich um einen Beacon zu craften?",
+  "must": [
+   [
+    "nether star",
+    "netherstern"
+   ],
+   [
+    "glass",
+    "glas"
+   ],
+   [
+    "obsidian"
+   ]
+  ]
+ },
+ {
+  "id": "r03",
+  "q": "Wie craftet man einen Netherite Ingot?",
+  "must": [
+   [
+    "netherite scrap",
+    "netherit-schrott",
+    "schrott"
+   ],
+   [
+    "gold"
+   ]
+  ]
+ },
+ {
+  "id": "r04",
+  "q": "Wie baue ich einen Brewing Stand?",
+  "must": [
+   [
+    "blaze rod",
+    "lohenrute"
+   ]
+  ]
+ },
+ {
+  "id": "r05",
+  "q": "Welche Zutaten hat der Enchanting Table?",
+  "must": [
+   [
+    "obsidian"
+   ],
+   [
+    "book",
+    "buch"
+   ],
+   [
+    "diamond",
+    "diamant"
+   ]
+  ]
+ },
+ {
+  "id": "r06",
+  "q": "Wie craftet man die Mechanical Press in Create?",
+  "must": [
+   [
+    "andesite casing",
+    "andesit-geh"
+   ],
+   [
+    "shaft",
+    "welle"
+   ],
+   [
+    "iron block",
+    "eisenblock",
+    "block of iron",
+    "iron storage",
+    "eisen-block",
+    "eisenblöck"
+   ]
+  ]
+ },
+ {
+  "id": "r07",
+  "q": "Wie stelle ich ein Andesite Casing her?",
+  "must": [
+   [
+    "stripped",
+    "entrindet"
+   ],
+   [
+    "andesite alloy",
+    "andesit-legierung",
+    "andesitlegierung"
+   ]
+  ]
+ },
+ {
+  "id": "r08",
+  "q": "Wie macht man einen Encased Fan in Create?",
+  "must": [
+   [
+    "propeller"
+   ],
+   [
+    "shaft",
+    "welle"
+   ],
+   [
+    "andesite casing"
+   ]
+  ]
+ },
+ {
+  "id": "r09",
+  "q": "Wie bekomme ich einen ME Controller in AE2?",
+  "must": [
+   [
+    "sky stone",
+    "himmelsstein"
+   ],
+   [
+    "fluix"
+   ],
+   [
+    "engineering processor",
+    "ingenieurs"
+   ]
+  ]
+ },
+ {
+  "id": "r10",
+  "q": "Wie baue ich eine Waystone?",
+  "must": [
+   [
+    "warp stone",
+    "warpstein"
+   ],
+   [
+    "obsidian"
+   ],
+   [
+    "stone brick",
+    "steinziegel"
+   ]
+  ]
+ },
+ {
+  "id": "r11",
+  "q": "Wie stelle ich einen Rucksack bei Sophisticated Backpacks her?",
+  "must": [
+   [
+    "chest",
+    "truhe"
+   ],
+   [
+    "leather",
+    "leder"
+   ],
+   [
+    "string",
+    "faden"
+   ]
+  ]
+ },
+ {
+  "id": "r12",
+  "q": "Wie stellt man den Electric Motor aus Create Crafts and Additions her?",
+  "must": [
+   [
+    "capacitor",
+    "kondensator"
+   ],
+   [
+    "copper spool",
+    "kupferspule"
+   ]
+  ]
+ },
+ {
+  "id": "r13",
+  "q": "Wie bekomme ich eine Millstone?",
+  "must": [
+   [
+    "cogwheel",
+    "zahnrad"
+   ],
+   [
+    "andesite casing"
+   ]
+  ]
+ },
+ {
+  "id": "r14",
+  "q": "Wie stelle ich einen Cooking Pot von Farmer's Delight her?",
+  "must": [
+   [
+    "brick",
+    "ziegel"
+   ],
+   [
+    "shovel",
+    "schaufel"
+   ]
+  ]
+ },
+ {
+  "id": "r15",
+  "q": "Wie erstelle ich ein Brass Casing?",
+  "must": [
+   [
+    "stripped",
+    "entrindet"
+   ],
+   [
+    "brass",
+    "messing"
+   ]
+  ]
+ },
+ {
+  "id": "u01",
+  "q": "Wofür brauche ich Andesite Alloy in Create?",
+  "must": [
+   [
+    "casing",
+    "shaft",
+    "cogwheel",
+    "zahnrad",
+    "welle",
+    "geh"
+   ]
+  ]
+ },
+ {
+  "id": "u02",
+  "q": "Was kann ich aus einer Lohenrute (Blaze Rod) craften?",
+  "must": [
+   [
+    "brewing stand",
+    "braustand",
+    "blaze powder",
+    "lohenpulver"
+   ]
+  ]
+ },
+ {
+  "id": "u03",
+  "q": "Wofür wird Zink in Create verwendet?",
+  "must": [
+   [
+    "brass",
+    "messing"
+   ]
+  ]
+ },
+ {
+  "id": "u04",
+  "q": "In welchen Rezepten wird der Nether Star benötigt?",
+  "must": [
+   [
+    "beacon",
+    "leuchtfeuer"
+   ]
+  ]
+ },
+ {
+  "id": "t01",
+  "q": "Welche Rohstoffe brauche ich insgesamt für einen Encased Fan?",
+  "must": [
+   [
+    "andesite",
+    "andesit"
+   ],
+   [
+    "iron",
+    "eisen"
+   ]
+  ]
+ },
+ {
+  "id": "t02",
+  "q": "Aus welchen Grundmaterialien besteht der Electric Motor von Create Additions?",
+  "must": [
+   [
+    "copper",
+    "kupfer"
+   ]
+  ]
+ },
+ {
+  "id": "g01",
+  "q": "Welche Munition benutzt die AK47 (AKM) und wie viele Schuss passen ins Magazin?",
+  "must": [
+   [
+    "762x39",
+    "7.62"
+   ],
+   [
+    "30"
+   ]
+  ]
+ },
+ {
+  "id": "g02",
+  "q": "Wie hoch ist die Feuerrate der AKM?",
+  "must": [
+   [
+    "600"
+   ]
+  ]
+ },
+ {
+  "id": "d01",
+  "q": "Wie funktioniert Autocrafting in AE2?",
+  "must": [
+   [
+    "crafting cpu",
+    "cpu"
+   ],
+   [
+    "pattern",
+    "muster"
+   ]
+  ]
+ },
+ {
+  "id": "d02",
+  "q": "Was macht eine Crafting CPU in Applied Energistics 2?",
+  "must": [
+   [
+    "request",
+    "job",
+    "anfrage",
+    "auftrag",
+    "crafting"
+   ]
+  ]
+ },
+ {
+  "id": "d03",
+  "q": "Was ist ein Meteorit in AE2 und wozu ist er gut?",
+  "must": [
+   [
+    "meteor"
+   ],
+   [
+    "certus",
+    "mysterious cube",
+    "mysteriöse",
+    "würfel",
+    "budding"
+   ]
+  ]
+ },
+ {
+  "id": "d04",
+  "q": "Was ist Apotheosis und was fügt es hinzu?",
+  "must": [
+   [
+    "affix",
+    "gem",
+    "loot",
+    "enchant",
+    "verzauber"
+   ]
+  ]
+ },
+ {
+  "id": "w01",
+  "q": "Wie funktioniert Brewing in Minecraft?",
+  "must": [
+   [
+    "brewing stand",
+    "braustand"
+   ],
+   [
+    "water bottle",
+    "wasserflasche",
+    "nether wart",
+    "netherwarze"
+   ]
+  ]
+ },
+ {
+  "id": "w02",
+  "q": "Was bewirkt die Verzauberung Mending?",
+  "must": [
+   [
+    "repair",
+    "reparier",
+    "haltbarkeit",
+    "durability"
+   ],
+   [
+    "experience",
+    "erfahrung",
+    "xp"
+   ]
+  ]
+ },
+ {
+  "id": "w03",
+  "q": "Wie komme ich an Netherite?",
+  "must": [
+   [
+    "ancient debris",
+    "antiker schutt",
+    "antike"
+   ]
+  ]
+ },
+ {
+  "id": "n01",
+  "q": "Wie craftet man das Mythril-Schwert?",
+  "must": [
+   [
+    "nicht",
+    "kein",
+    "no ",
+    "not ",
+    "keine",
+    "unknown",
+    "unbekannt"
+   ]
+  ],
+  "must_not": [
+   [
+    "mithril ingot",
+    "mythril ingot"
+   ]
+  ]
+ },
+ {
+  "id": "n02",
+  "q": "Wie stelle ich eine Plasmakanone aus dem Quantum-Mod her?",
+  "must": [
+   [
+    "nicht",
+    "kein",
+    "no ",
+    "not ",
+    "keine",
+    "unknown",
+    "unbekannt"
+   ]
+  ]
+ }
+]
